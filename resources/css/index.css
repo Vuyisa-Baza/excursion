@@ -14,7 +14,7 @@ header h1{
     font-weight: normal;
 }
 
-header a{
+a{
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
